@@ -1,0 +1,12 @@
+https://www.w3schools.com/graphics/game_gravity.asp
+
+gravity to make the player move like kickass
+
+https://www.w3schools.com/graphics/game_rotation.asp
+
+gunna need rotaion so the player moves like kickass 
+
+https://www.w3schools.com/graphics/game_movement.asp
+
+movement for the player
+
